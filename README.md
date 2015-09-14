@@ -1,2 +1,2 @@
 # tkphd.github.io
-tkphd blag
+Placeholder for code development blog entries.
