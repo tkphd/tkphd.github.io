@@ -1,15 +1,22 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
+/* TEAM */
+    Author: Trevor Keller
+    Site: https://tkphd.github.io
+    Twitter: @fifthblackbird
+    From: Germantown, Maryland, USA
 
-    <name> -- <role> -- <twitter>
+/* THANKS */
 
-# THANKS
+    h5bp (boilerplate)
+    https://html5boilerplate.com/
 
-    <name>
+    peachdish (exceptional humans.txt)
+    https://www.peachdish.com/
 
-# TECHNOLOGY COLOPHON
-
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+/* SITE */
+    Last update: 2016/02/03
+    Language: English
+    Standards: CSS3, HTML5
+    Components: Apache Server Configs, jQuery, Modernizr, Normalize.css
