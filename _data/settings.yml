@@ -1,0 +1,63 @@
+#-------------------------------
+# General Site Settings
+
+title: Trevor Keller
+description: Theorist // Engineer // Wordsmith
+email: trevor.keller@gmail.com
+
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Work, url: '#work'}
+- {name: Contact, url: '#contact'}
+
+#-------------------------------
+# About Section
+
+blurb: >
+  **Trevor specializes in kinetic models** for microstructural evolution in metal alloys.
+  
+
+skills:
+- {name: Communication, value: '9'}
+- {name: Organization,  value: '7'}
+- {name: Learning,      value: '10'}
+- {name: Teaching,      value: '6'}
+- {name: Planning,      value: '9'}
+- {name: Analysis,      value: '10'}
+- {name: Programming,   value: '7'}
+- {name: Visualization, value: '8'}
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: Aging in Additive Alloys, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Grain Growth, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: MMSP, folder: 'proj-3', file: 'work/proj-3.html'}
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'github', link: 'https://github.com/tkphd/'}
+- {icon: 'openhub', link: 'https://www.openhub.net/accounts/tkphd'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/trevor-keller-a8610ba/'}
+- {icon: 'google-plus', link: 'https://plus.google.com/u/0/+TrevorKeller'}
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+
+#-------------------------------
+# SEO Section
+
+seo:
+  description: 'Scientific research on competitive growth of grains and precipitates in solid metallic systems.'
+  keywords: 'materials,materials-science,simulation,phase-field,CALPHAD'
+  rel-author: 'https://plus.google.com/u/0/+TrevorKeller'
+  rel-publisher: 'https://plus.google.com/u/0/+TrevorKeller/'
+
+#-------------------------------
+# Google Analytics Section
+
+google-analytics-ua: UA-91363365-1
