@@ -10,7 +10,8 @@ avatar: "tkavatar.jpg"
 
 # Colors
 
-accent: "#c99065"
+#accent: "#c99065"
+accent: "#cc9933"
 
 textColor: "#666"
 headlineColor: "#333"

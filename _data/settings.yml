@@ -15,7 +15,7 @@ menu:
 
 blurb: >
   **Trevor specializes in kinetic models** for microstructural evolution in metal alloys.
-  
+
 
 skills:
 - {name: Communication, value: '9'}
@@ -26,6 +26,11 @@ skills:
 - {name: Analysis,      value: '10'}
 - {name: Programming,   value: '7'}
 - {name: Visualization, value: '8'}
+
+resume:
+- {format: 'PDF', url: '/assets/TKResume.pdf', tail: ' or '}
+- {format: 'HTML', url: 'https://tkphd.github.io/resume/', tail: '.'}
+
 
 #-------------------------------
 # Work Section

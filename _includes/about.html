@@ -8,7 +8,7 @@
 
     <div class="icon-pencil">{% include icons/icon-pencil.html %}</div>
     <div class="icon-mouse">{% include icons/icon-mouse.html %}</div>
-    <div class="icon-browser">{% include icons/icon-browser.html %}</div>
+    <div class="icon-terminal">{% include icons/icon-terminal.html %}</div>
     <div class="icon-caliper">{% include icons/icon-caliper.html %}</div>
 
   </div>
@@ -18,12 +18,19 @@
     {{ site.data.settings.blurb | markdownify }}
   </div>
 
+
+  {% if site.data.settings.resume %}
+  <div class="resume">
+    Get his r&eacute;sum&eacute; in
+    {% for item in site.data.settings.resume %}
+    <span><a href={{ item.url }}>{{ item.format }}</a>{{ item.tail }}</span>
+    {% endfor %}
+  </div>
+  {% endif %}
+
   {% if site.data.settings.skills %}
-
   <div class="skill-lockup">
-
     {% for skill in site.data.settings.skills %}
-
       <div class="skill-unit">
         <div class="skill-label">{{ skill.name }}</div>
         <div class="skill-icons skill-{{ skill.value }}">
@@ -38,5 +45,6 @@
   </div>
 
   {% endif %}
+
 
 </section>

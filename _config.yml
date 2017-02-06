@@ -4,8 +4,6 @@ markdown: kramdown
 permalink: pretty
 url: https://tkphd.github.io
 
-port: 8000
-
 include: ['_includes/work']
 
 sass:
