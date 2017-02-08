@@ -36,9 +36,12 @@ resume:
 # Work Section
 
 projects:
-- {name: Aging in Additive Alloys, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: Grain Growth, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: MMSP, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Doctoral Dissertation,                 folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Comparative Grain Topology,            folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Solidification Models for Additive,    folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Solid State Coarsening for Additive,   folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Interfacial Instability in Multiphase, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Parallel Programming for Phase Field,  folder: 'proj-6', file: 'work/proj-6.html'}
 
 
 #-------------------------------
