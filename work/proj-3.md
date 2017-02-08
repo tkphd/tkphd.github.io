@@ -1,5 +1,10 @@
 ---
-title: Crispy Icons
+title: Additive Stuff
 ---
 
-![Crispy Icons]({{ site.github.url }}/assets/img/work/proj-3/CrispyIcons-PetrasNargela.jpg)
+![Additive]({{ site.github.url }}/assets/img/work/proj-3/thumb.png)
+
+Simulated Processing for Additive Manufacturing
+Image courtesy of Yaakov Idell
+
+![Additive]({{ site.github.url }}/assets/img/work/proj-3/img1.png)

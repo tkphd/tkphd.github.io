@@ -1,5 +1,9 @@
 ---
-title: City In Website Concept
+title: Comparative Grain Topology
 ---
 
-![City In]({{ site.github.url }}/assets/img/work/proj-2/CityIn-AntonSkvortsov.jpg)
+![Comparative Grain Topology]({{ site.github.url }}/assets/img/work/proj-2/thumb.png)
+
+**Comparative Grain Topology**
+
+![Comparative Grain Topology]({{ site.github.url }}/assets/img/work/proj-2/img1.png)
