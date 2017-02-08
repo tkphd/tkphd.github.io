@@ -34,6 +34,7 @@ resume:
 
 #-------------------------------
 # Work Section
+# Pad/Resize images: convert ${f} -channel rgba -alpha set -resize 600x340 -background 'rgba(100%,100%,100%,0.0)' -gravity center -extent 600x340 ${f}
 
 projects:
 - {name: Doctoral Dissertation,                 folder: 'proj-1', file: 'work/proj-1.html'}
