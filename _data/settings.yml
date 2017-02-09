@@ -7,7 +7,7 @@ email: trevor.keller@gmail.com
 
 menu:
 - {name: About Me, url: '#about-me'}
-- {name: Work, url: '#work'}
+- {name: Research, url: '#research'}
 - {name: Contact, url: '#contact'}
 
 #-------------------------------
