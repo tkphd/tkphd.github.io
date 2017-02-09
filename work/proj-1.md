@@ -34,7 +34,7 @@ to produce large grain populations for analysis.
 
 I chose [phase-field simulations](https://en.wikipedia.org/wiki/Phase_field_models), since their foundations
 in statistical thermodynamics allow for realistic physical features in the model. The downside is that the
-interfaces are diffuse, not sharp &emdash; so I created an algorithm to extract discrete grain boundary
+interfaces are diffuse, not sharp, so I created an algorithm to extract discrete grain boundary
 networks from 2D and 3D datasets:
 
 {:.imgcenter}
