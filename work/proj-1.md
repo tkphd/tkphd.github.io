@@ -2,7 +2,7 @@
 title: Dissertation Stuff
 ---
 
-### Dissertation: [**Bias in Polycrystal Topology Caused by Grain Boundary Motion by Mean Curvature.**]({{ site.github.url }}/assets/TKDissertation.pdf)
+### Grain Boundary Network Topology (Dissertation)
 
 Metals are not uniform blocks of material, but instead are composed of tiny subdomains of common crystalline orientation called "grains."
 They are visible in the zinc coatings of galvanized steel guard rails, or in this polished and etched nickel alloy:
@@ -50,7 +50,8 @@ These are vertices in 2D or edges in 3D, and "pinning" them tends to straighten 
 This straightening of edges dampens motion by mean curvature, thereby prolonging the lifetimes of triangular grains.
 This effect demonstrates that *motion by mean curvature is the cause of bias in polycrystal topology.*
 
-For a detailed discussion of this work, please refer to [my dissertation.]({{ site.github.url }}/assets/TKDissertation.pdf)
+For a detailed discussion of this work, please refer to my dissertation,
+[Bias in Polycrystal Topology Caused by Grain Boundary Motion by Mean Curvature.]({{ site.github.url }}/assets/TKDissertation.pdf)
 
 <style>
 .imgcenter {

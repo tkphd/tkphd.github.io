@@ -1,10 +1,21 @@
 ---
-title: Additive Stuff
+title: Multiphase Stuff
 ---
 
-![Additive]({{ site.github.url }}/assets/img/work/proj-3/thumb.png)
+### Multiphase-field Models for Grain Growth
 
-Simulated Processing for Additive Manufacturing
-Image courtesy of Yaakov Idell
+{:.imgcenter}
+![Multiphase]({{ site.github.url }}/assets/img/work/proj-3/thumb.png)
 
-![Additive]({{ site.github.url }}/assets/img/work/proj-3/img1.png)
+
+{:.imgcenter}
+![Multiphase]({{ site.github.url }}/assets/img/work/proj-3/mpf.png)
+
+
+
+<style>
+.imgcenter {
+    text-align:center;
+}
+</style>
+

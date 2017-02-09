@@ -1,9 +1,20 @@
 ---
-title: Comparative Grain Topology
+title: Additive Stuff
 ---
 
-![Comparative Grain Topology]({{ site.github.url }}/assets/img/work/proj-2/thumb.png)
+### Solid State Coarsening for Additive Manufacturing
 
-**Comparative Grain Topology**
+{:.imgcenter}
+![Additive]({{ site.github.url }}/assets/img/work/proj-2/thumb.png)
 
-![Comparative Grain Topology]({{ site.github.url }}/assets/img/work/proj-2/img1.png)
+{:.imgcenter}
+![Additive]({{ site.github.url }}/assets/img/work/proj-2/ternary.png)
+
+
+
+<style>
+.imgcenter {
+    text-align:center;
+}
+</style>
+
