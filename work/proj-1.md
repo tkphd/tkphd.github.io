@@ -2,8 +2,6 @@
 title: Dissertation Stuff
 ---
 
-### Grain Boundary Network Topology (Dissertation)
-
 ***
 For a detailed discussion of this work, please refer to my dissertation,<br>
 [Bias in Polycrystal Topology Caused by Grain Boundary Motion by Mean Curvature.]({{ site.github.url }}/assets/TKDissertation.pdf)
