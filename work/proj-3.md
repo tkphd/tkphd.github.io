@@ -15,3 +15,5 @@ and adversely affect the system's coarsening kinetics.
 {: .imgcenter}
 ![Multiphase]({{ site.github.url }}/assets/img/work/proj-3/mpf.png)
 *Competing free-energy landscapes for a system of three subdomains.*
+
+

@@ -3,7 +3,8 @@ title: Dissertation Stuff
 ---
 
 *For a detailed discussion of this work, please refer to my dissertation,
-[Bias in Polycrystal Topology Caused by Grain Boundary Motion by Mean Curvature.]({{ site.github.url }}/assets/TKDissertation.pdf)*
+["Bias in Polycrystal Topology Caused by Grain Boundary Motion by Mean Curvature"]({{ site.github.url }}/assets/TKDissertation.pdf),
+and my paper, ["Comparative Grain Topology"](http://dx.doi.org/10.1016/j.actamat.2013.11.039).*
 
 Metals are not uniform blocks of material, but instead are composed of tiny subdomains of common crystalline orientation called "grains."
 They are visible in the zinc coatings of galvanized steel guard rails, or in this polished and etched nickel alloy:
