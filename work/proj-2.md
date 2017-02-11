@@ -18,7 +18,7 @@ shown schematically below.
 
 {: .imgcenter}
 ![Precipitate]({{ site.github.url }}/assets/img/work/proj-2/thumb.png)
-*Schematic composition map showing precipitate within enriched interdendritic
+*Schematic composition map showing precipitates within enriched interdendritic
 region. This is a proposed initial condition for solid-state simulations.*
 
 In X-ray diffraction patterns and transmission elecron micrographs of heat-treated
