@@ -42,6 +42,7 @@ projects:
 - {name: Scientific Software Development,                   folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Polycrystalline Grain Topology Algorithm,          folder: 'proj-4', file: 'work/proj-4.html'}
 - {name: Numerical Methods,                                 folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Sourdough Bread,                                   folder: 'proj-6', file: 'work/proj-6.html'}
 
 
 #-------------------------------
