@@ -31,7 +31,7 @@ Exchanging this boundary data is typically done with MPI, the message passing
 interface. Many programs use the simplest commands, ```MPI_Send``` and
 ```MPI_Recv```, to exchange chunks of data between parallel processes. These
 are *blocking* operations: a process which enters ```MPI_Send``` will not
-return until the data ahs been sent to the destination process, and likewise
+return until the data has been sent to the destination process, and likewise
 for ```MPI_Recv```. Such operations run a high risk of *deadlock* when the send
 and receive operations occur in the wrong sequence. When scaling a parallel
 program beyond a couple of processors, it is important to use the non-blocking
@@ -65,7 +65,7 @@ to guarantee a dense file with the correct sequence of data on disk.*
 Using an online continuous integration tool, such as [Travis CI](
 https://travis-ci.org/), is perhaps the easiest way to check proposed software
 changes for errors. Essentially, whenever new code is committed to the
-repository, the continuous intergration service runs a test script and reports
+repository, the continuous integration service runs a test script and reports
 success or failure. For public online repositories, these tests can also run
 on proposed changes in pull requests.
 

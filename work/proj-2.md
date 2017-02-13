@@ -21,7 +21,7 @@ shown schematically below.
 *Schematic composition map showing precipitates within enriched interdendritic
 region. This is a proposed initial condition for solid-state simulations.*
 
-In X-ray diffraction patterns and transmission elecron micrographs of heat-treated
+In X-ray diffraction patterns and transmission electron micrographs of heat-treated
 Inconel 625 material produced by laser-powder bed fusion, I have noticed three
 types of metallic precipitate: &delta;, Laves, and, rarely, &mu;. For a Ni-rich
 alloy like Inconel 625, these phases are all represented in the Cr--Nb--Ni ternary

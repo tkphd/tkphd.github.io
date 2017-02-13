@@ -87,5 +87,5 @@ polycrystal datasets, or for examining unusual features of the grain boundary
 network.
 
 Source code for extracting grain topologies from sparse multiphase-field data
-is distrubuted with [MMSP](https://github.com/mesoscale/mmsp) as the [mmsp2topo
+is distributed with [MMSP](https://github.com/mesoscale/mmsp) as the [mmsp2topo
 utility](https://github.com/mesoscale/mmsp/blob/master/utility/mmsp2topo.cpp).

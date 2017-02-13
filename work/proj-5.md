@@ -17,7 +17,7 @@ analyzed the variations in mass and number of iterations.
 
 {: .imgcenter}
 ![CahnHilliardMass]({{ site.github.url }}/assets/img/work/proj-5/masscontours.png)
-*Contour plot of final system mass as a function of tiemstep and relaxation
+*Contour plot of final system mass as a function of timestep and relaxation
 parameter. With zero-flux boundary conditions, mass is exactly conserved in an
 explicit code; any deviation is physically incorrect. Black points succeeded, red points
 failed to converge.*
