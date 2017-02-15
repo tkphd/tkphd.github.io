@@ -29,7 +29,7 @@ skills:
 
 resume:
 - {format: 'PDF', url: '/assets/TKResume.pdf', tail: ' or '}
-- {format: 'HTML', url: '/resume/', tail: '.'}
+- {format: 'HTML', url: 'http://www.trevorkeller.com/resume/', tail: '.'}
 
 
 #-------------------------------
