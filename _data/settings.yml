@@ -29,7 +29,7 @@ skills:
 
 resume:
 - {format: 'PDF', url: '/assets/TKResume.pdf', tail: ' or '}
-- {format: 'HTML', url: 'https://tkphd.github.io/resume/', tail: '.'}
+- {format: 'HTML', url: '/resume/', tail: '.'}
 
 
 #-------------------------------

@@ -72,7 +72,7 @@ on proposed changes in pull requests.
 Here are a few of the projects I have configured for automatic testing using
 [Travis CI](https://travis-ci.org/tkphd):
 
-| [ tkphd.github.io ](https://github.com/tkphd/tkphd.github.io)                          | | [ ![Build Status](https://travis-ci.org/tkphd/tkphd.github.io.svg?branch=master) ](https://travis-ci.org/tkphd/tkphd.github.io) |
+| [ trevorkeller.com ](https://github.com/tkphd/tkphd.github.io)                         | | [ ![Build Status](https://travis-ci.org/tkphd/tkphd.github.io.svg?branch=master) ](https://travis-ci.org/tkphd/tkphd.github.io) |
 | [ MMSP examples ](https://github.com/mesoscale/mmsp)                                   | | [ ![Build Status](https://travis-ci.org/mesoscale/mmsp.svg?branch=master) ](https://travis-ci.org/mesoscale/mmsp) |
 | [ MMSP benchmark ](https://github.com/mesoscale/MMSP-spinodal-decomposition-benchmark) | | [ ![Build Status](https://travis-ci.org/mesoscale/MMSP-spinodal-decomposition-benchmark.svg?branch=master) ](https://travis-ci.org/mesoscale/MMSP-spinodal-decomposition-benchmark) |
 | [ FiPy benchmark ](https://github.com/usnistgov/FiPy-spinodal-decomposition-benchmark) | | [ ![Build Status](https://travis-ci.org/usnistgov/FiPy-spinodal-decomposition-benchmark.svg?branch=master) ](https://travis-ci.org/usnistgov/FiPy-spinodal-decomposition-benchmark) |
