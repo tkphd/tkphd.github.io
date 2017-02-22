@@ -10,22 +10,12 @@ menu:
 - {name: Research, url: '#research'}
 - {name: Contact, url: '#contact'}
 
+
 #-------------------------------
 # About Section
 
 blurb: >
-  **Trevor specializes in kinetic models** for microstructural evolution in metal alloys.
-
-
-skills:
-- {name: Communication, value: '9'}
-- {name: Organization,  value: '7'}
-- {name: Learning,      value: '10'}
-- {name: Teaching,      value: '6'}
-- {name: Planning,      value: '9'}
-- {name: Analysis,      value: '10'}
-- {name: Programming,   value: '7'}
-- {name: Visualization, value: '8'}
+  **Trevor specializes in kinetic models** for microstructural evolution in metal alloys. He is currently a postdoc at NIST, studying precipitate aging in additively manufactured superalloys using phase-field methods and computational thermodynamics.
 
 resume:
 - {format: 'PDF', url: '/assets/TKResume.pdf', tail: ' or '}
@@ -53,8 +43,8 @@ social:
 - {icon: 'linkedin', link: 'http://www.linkedin.com/in/trevor-keller-a8610ba/'}
 - {icon: 'google-plus', link: 'https://plus.google.com/u/0/+TrevorKeller'}
 
-
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+
 
 #-------------------------------
 # SEO Section
@@ -64,6 +54,7 @@ seo:
   keywords: 'materials,materials-science,simulation,phase-field,CALPHAD'
   rel-author: 'https://plus.google.com/u/0/+TrevorKeller'
   rel-publisher: 'https://plus.google.com/u/0/+TrevorKeller/'
+
 
 #-------------------------------
 # Google Analytics Section
