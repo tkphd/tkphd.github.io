@@ -5,7 +5,7 @@ $(function() {
 	clientStuff();
 
 	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });
-	$(".biglink").fitText(1.5);
+	$(".biglink").fitText(2.25);
 
 	$('textarea').autosize();
 });
