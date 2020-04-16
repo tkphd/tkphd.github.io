@@ -3,7 +3,7 @@ title: Numerical Stuff
 ---
 
 During the first [CHiMaD Phase Field Hackathon](
-https://pages.nist.gov/chimad-phase-field/hackathon1/index.ipynb/), I solved
+https://pages.nist.gov/pfhub/hackathon1/index.ipynb/), I solved
 the problem using [MMSP](https://github.com/mesoscale/mmsp) with an explicit
 solver modeled after the [Cahn-Hilliard example](
 https://github.com/mesoscale/mmsp/tree/master/examples/phase_transitions/cahn-hilliard/explicit).
