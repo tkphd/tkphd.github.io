@@ -1,4 +1,6 @@
-_site/
-.sass-cache/
+.bundle
 .directory
+.sass-cache
+_site
+*~
 Gemfile.lock

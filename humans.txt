@@ -1,10 +1,10 @@
-# humanstxt.org/
+# <https://humanstxt.org>
 # The humans responsible & technology colophon
 
 /* TEAM */
     Author: Trevor Keller
-    Site: https://tkphd.github.io
-    Twitter: @fifthblackbird
+    Site: http://www.trevorkeller.com
+    GitHub: @tkphd
     From: Germantown, Maryland, USA
 
 /* THANKS */

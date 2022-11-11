@@ -1,4 +1,4 @@
-#-------------------------------
+---
 # General Site Settings
 
 title: Trevor Keller
@@ -6,57 +6,77 @@ description: Theorist // Engineer // Wordsmith
 email: trevor@trevorkeller.com
 
 menu:
-- {name: About Me, url: '#about-me'}
-- {name: Research, url: '#research'}
-- {name: Contact, url: '#contact'}
+  - name: About Me
+    url: '#about-me'
+  - name: Research
+    url: '#research'
+  - name: Contact
+    url: '#contact'
 
-
-#-------------------------------
 # About Section
 
 blurb: >
-  **Trevor specializes in kinetic models** for microstructural evolution in metal alloys. He is currently a postdoc at NIST, studying precipitate aging in additively manufactured superalloys using phase-field methods and computational thermodynamics.
+  **Trevor specializes in kinetic models** for microstructural
+  evolution in metal alloys. They are a member of the research
+  staff at NIST, studying precipitate aging in additively
+  manufactured superalloys using phase-field methods and
+  computational thermodynamics.
 
 resume:
-- {format: 'PDF', url: '/assets/TKResume.pdf', tail: ' or '}
-- {format: 'HTML', url: 'http://www.trevorkeller.com/resume/', tail: '.'}
+  - format: 'PDF'
+    url: '/assets/TKResume.pdf'
+    tail: ' or '
+  - format: 'HTML'
+    url: 'http://www.trevorkeller.com/resume/'
+    tail: '.'
 
-
-#-------------------------------
 # Work Section
-# Pad/Resize images: convert ${f} -channel rgba -alpha set -resize 600x340 -background 'rgba(100%,100%,100%,0.0)' -gravity center -extent 600x340 ${f}
+
+# Breadcrumb to pad/resize images:
+# convert ${f} -channel rgba -alpha set -resize 600x340 \
+#         -background 'rgba(100%,100%,100%,0.0)' \
+#         -gravity center -extent 600x340 ${f}
 
 projects:
-- {name: Grain Boundary Network Topology (Dissertation),    folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: Solid State Coarsening for Additive Manufacturing, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Scientific Software Development,                   folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Polycrystalline Grain Topology Algorithm,          folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Numerical Methods,                                 folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Sourdough Bread,                                   folder: 'proj-6', file: 'work/proj-6.html'}
+  - name: Grain Boundary Network Topology (Dissertation)
+    folder: 'proj-1'
+    file: 'work/proj-1.html'
+  - name: Solid State Coarsening for Additive Manufacturing
+    folder: 'proj-2'
+    file: 'work/proj-2.html'
+  - name: Scientific Software Development
+    folder: 'proj-3'
+    file: 'work/proj-3.html'
+  - name: Polycrystalline Grain Topology Algorithm
+    folder: 'proj-4'
+    file: 'work/proj-4.html'
+  - name: Numerical Methods
+    folder: 'proj-5'
+    file: 'work/proj-5.html'
+  - name: Sourdough Bread
+    folder: 'proj-6'
+    file: 'work/proj-6.html'
 
-
-#-------------------------------
-# Contact Section
+# Social networking
+# twitter / facebook / github / pinterest / linkedin / youtube /
+# instagram / dribbble / behance / soundcloud / vine
 
 social:
-- {icon: 'github', link: 'https://github.com/tkphd/'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/trevor-keller-a8610ba/'}
-- {icon: 'google-plus', link: 'https://plus.google.com/u/0/+TrevorKeller'}
+  - icon: 'github'
+    link: 'https://github.com/tkphd/'
+  - icon: 'linkedin'
+    link: 'http://www.linkedin.com/in/trevor-keller-a8610ba/'
+  - icon: 'twitter'
+    link: 'https://twitter.com/tkphd'
 
-# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
-
-
-#-------------------------------
 # SEO Section
 
 seo:
-  description: 'Scientific research on competitive growth of grains and precipitates in solid metallic systems.'
+  description: |
+    Scientific research on competitive growth of grains
+    and precipitates in solid metallic systems.
   keywords: 'materials,materials-science,simulation,phase-field,CALPHAD'
-  rel-author: 'https://plus.google.com/u/0/+TrevorKeller'
-  rel-publisher: 'https://plus.google.com/u/0/+TrevorKeller/'
 
-
-#-------------------------------
-# Google Analytics Section
+# Google Analytics
 
 google-analytics-ua: UA-91363365-1
