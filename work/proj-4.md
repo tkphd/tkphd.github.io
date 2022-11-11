@@ -2,7 +2,7 @@
 title: Topology Stuff
 ---
 
-*This algorithm is discussed at length in [my dissertation]({{ site.github.url
+*This algorithm is discussed at length in [my dissertation]({{ site.url
 }}/assets/TKDissertation.pdf).*
 
 In multiphase-field datasets, grains are regions in which one order parameter
@@ -10,7 +10,7 @@ is "on" and the rest are "off." The grain boundaries are defined implicitly as
 those regions in-between where two or more order parameters are partially "on."
 
 {: .imgcenter}
-![Diffuse]({{ site.github.url }}/assets/img/work/proj-4/Profiles.png)
+![Diffuse]({{ site.url }}/assets/img/work/proj-4/Profiles.png)
 *2D multiphase-field data with grains as solid-colored regions and exaggerated
 grain boundaries in-between. Line scans show quantitative differences between
 bulk grain interior, edges, and vertices in the network.*
@@ -22,7 +22,7 @@ of the data, |&phi;|. From each of these points, a fast-marching level set
 method propagates the weighted distance back throughout the local network.
 
 {: .imgcenter}
-![Propagation]({{ site.github.url }}/assets/img/work/proj-4/propagation.png)
+![Propagation]({{ site.url }}/assets/img/work/proj-4/propagation.png)
 *Propagation of distance to the central vertex (in black) through the local
 grain boundary network using a fast-marching level set method. This process
 repeats for each vertex in the domain, recording a vector-valued distance
@@ -38,7 +38,7 @@ one interfacial width apart, they are indistinguishable. Practically, this only
 occurs in the transient before steady-state and when an edge collapses.
 
 {: .imgcenter}
-![Near miss]({{ site.github.url }}/assets/img/work/proj-4/nearmiss.png)
+![Near miss]({{ site.url }}/assets/img/work/proj-4/nearmiss.png)
 *Due to the diffuse interfaces -- outlined in black -- inherent to phase-field
 data, a trial edge (in red) can easily "miss" an intermediate vertex **m** as it
 traverses from **s** to **t**. The algorithm prevents this for vertices separated
@@ -51,7 +51,7 @@ the faces of each grain. Consider the graph representation of a cube, with
 each cube corner given a letter:
 
 {: .imgcenter}
-![chordless]({{ site.github.url }}/assets/img/work/proj-4/cycles.png)
+![chordless]({{ site.url }}/assets/img/work/proj-4/cycles.png)
 *Chordless cycles of the cube, with corners labeled A--H. The six faces
 are represented by four-letter cycles.*
 
@@ -75,7 +75,7 @@ extracting the vertex-adjacency matrix for a grain from the global matrix, then
 traversing the grain-graph to produce its Weinberg vector.
 
 {: .imgcenter}
-![Weinberg]({{ site.github.url }}/assets/img/work/proj-4/weinberg.png)
+![Weinberg]({{ site.url }}/assets/img/work/proj-4/weinberg.png)
 *Construction of two string representations of grain topology using
 vertex adjacency data. After alphabetically sorting the vectors produced from
 every vertex, the first one is taken as the unique Weinberg vector. For this

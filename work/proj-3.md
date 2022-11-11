@@ -10,7 +10,7 @@ few neighboring points, but in most cases, long-range effects are negligible.
 Therefore, the full simulation domain can be subdivided into smaller units.
 
 {: .imgcenter}
-![ghosts]({{ site.github.url }}/assets/img/work/proj-3/thumb.png)
+![ghosts]({{ site.url }}/assets/img/work/proj-3/thumb.png)
 *Spatial decomposition of the system into parallel subdomains.*
 
 In a shared-memory architecture, *e.g.* using all the cores of a modern CPU,
@@ -22,7 +22,7 @@ computations require data from neighboring subdomains. These are stored in
 of stale data.
 
 {: .imgcenter}
-![Ghosts]({{ site.github.url }}/assets/img/work/proj-3/ghosts.png)
+![Ghosts]({{ site.url }}/assets/img/work/proj-3/ghosts.png)
 *Illustration of a 2D domain subdivided among three processors with distributed
 memory. Spatial operators, such as finite differencing at point (i,j), require
 data from "ghost" cells in gray and local cells in black.*
@@ -53,7 +53,7 @@ dividing data as needed to make a fully dense file with bits in the correct
 sequence. Once the gather operation completes, the writers write to disk.
 
 {: .imgcenter}
-![Parallel]({{ site.github.url }}/assets/img/work/proj-3/gatherio.png)
+![Parallel]({{ site.url }}/assets/img/work/proj-3/gatherio.png)
 *Schematic of parallel gather-and-write algorithm to prevent filesystem block
 collisions. On the left, each of the 8 MPI processes **r0**--**r7** writes to
 disk, with high risk of corruption. On the right, only ranks **r0**, **r3**,

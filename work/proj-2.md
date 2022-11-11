@@ -17,7 +17,7 @@ by secondary phases to precipitate and grow into finely dispersed particles,
 shown schematically below.
 
 {: .imgcenter}
-![Precipitate]({{ site.github.url }}/assets/img/work/proj-2/thumb.png)
+![Precipitate]({{ site.url }}/assets/img/work/proj-2/thumb.png)
 *Schematic composition map showing precipitates within enriched interdendritic
 region. This is a proposed initial condition for solid-state simulations.*
 
@@ -28,7 +28,7 @@ alloy like Inconel 625, these phases are all represented in the Cr--Nb--Ni terna
 system, an approximate phase diagram for which is presented below.
 
 {: .imgcenter}
-![Ternary Diagram]({{ site.github.url }}/assets/img/work/proj-2/ternary.png)
+![Ternary Diagram]({{ site.url }}/assets/img/work/proj-2/ternary.png)
 *Ternary phase diagram for Cr-Nb-Ni at 870&deg;C, generated from CALPHAD data
 using Qhull. Lines between phases are triangular facets of the convex hull,
 not thermodynamic tie lines.*

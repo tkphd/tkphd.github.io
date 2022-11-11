@@ -2,7 +2,7 @@
 ---
 markdown: kramdown
 permalink: pretty
-url: http://trevorkeller.com
+url: https://www.trevorkeller.com
 
 include: ['_includes/work']
 

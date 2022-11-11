@@ -3,21 +3,21 @@ title: Dissertation Stuff
 ---
 
 *For a detailed discussion of this work, please refer to my dissertation,
-["Bias in Polycrystal Topology Caused by Grain Boundary Motion by Mean Curvature"]({{ site.github.url }}/assets/TKDissertation.pdf),
-and my paper, ["Comparative Grain Topology"](http://dx.doi.org/10.1016/j.actamat.2013.11.039).*
+["Bias in Polycrystal Topology Caused by Grain Boundary Motion by Mean Curvature"]({{ site.url }}/assets/TKDissertation.pdf),
+and my paper, ["Comparative Grain Topology"](https://doi.org/10.1016/j.actamat.2013.11.039).*
 
 Metals are not uniform blocks of material, but instead are composed of tiny subdomains of common crystalline orientation called "grains."
 They are visible in the zinc coatings of galvanized steel guard rails, or in this polished and etched nickel alloy:
 
 {: .imgcenter}
-![grains in Monel 400]({{ site.github.url }}/assets/img/work/proj-1/monel.png)
+![grains in Monel 400]({{ site.url }}/assets/img/work/proj-1/monel.png)
 *Grains in polycrystalline nickel scatter light differently due to crystal orientations.*
 
 Grains grow, especially at elevated temperatures. Each interface grows toward its center of curvature, and grains with net outward curvature
 grow at the expense of neighbors with net inward curvature. In 2D, this produces the "*n* minus 6" rule:
 
 {: .imgcenter}
-![grain curvature predicts growth]({{ site.github.url }}/assets/img/work/proj-1/unstable.png)
+![grain curvature predicts growth]({{ site.url }}/assets/img/work/proj-1/unstable.png)
 *Stable 2D junctions make 120&deg; angles: hexagons are stable, while  heptagons and above grow at the expense of pentagons and below.*
 
 This process of *motion by mean curvature* tends to eliminate three-edged faces in 3D polycrystals.
@@ -34,11 +34,11 @@ interfaces are diffuse, not sharp, so I created an algorithm to extract discrete
 networks from 2D and 3D datasets:
 
 {: .imgcenter}
-![2D network]({{ site.github.url }}/assets/img/work/proj-1/gbnetwork.png)
+![2D network]({{ site.url }}/assets/img/work/proj-1/gbnetwork.png)
 *Illustration of diffuse boundaries (left) and discrete network reconstruction (right) from 2D data.*
 
 {: .imgcenter}
-![3D network]({{ site.github.url }}/assets/img/work/proj-1/gbgraph.png)
+![3D network]({{ site.url }}/assets/img/work/proj-1/gbgraph.png)
 *Discrete grain boundary network in 3D. The reconstruction produces a complete adjacency matrix for the grain boundary network graph.*
 
 The phase-field model provided an easy means of changing the physics of grain growth. The most pronounced effects on topology of the
@@ -46,7 +46,7 @@ full grain boundary network arose from reducing the mobility of the diffuse inte
 These are vertices in 2D or edges in 3D, and "pinning" them tends to straighten the adjacent edges and facets.
 
 {: .imgcenter}
-![trijunction drag]({{ site.github.url }}/assets/img/work/proj-1/tjpinning.png)
+![trijunction drag]({{ site.url }}/assets/img/work/proj-1/tjpinning.png)
 *2D polycrystals grown under ideal conditions (left) and with reduced mobility at triple junctions (right) from an identical initial condition. Note overall straightening of edges.*
 
 This straightening of edges dampens motion by mean curvature, thereby prolonging the lifetimes of triangular grains.

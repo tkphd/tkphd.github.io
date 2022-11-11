@@ -16,14 +16,14 @@ to explore the parameter space, varying timestep and relaxation parameter, and
 analyzed the variations in mass and number of iterations.
 
 {: .imgcenter}
-![CahnHilliardMass]({{ site.github.url }}/assets/img/work/proj-5/masscontours.png)
+![CahnHilliardMass]({{ site.url }}/assets/img/work/proj-5/masscontours.png)
 *Contour plot of final system mass as a function of timestep and relaxation
 parameter. With zero-flux boundary conditions, mass is exactly conserved in an
 explicit code; any deviation is physically incorrect. Black points succeeded, red points
 failed to converge.*
 
 {: .imgcenter}
-![CahnHilliardIter]({{ site.github.url }}/assets/img/work/proj-5/workcontours.png)
+![CahnHilliardIter]({{ site.url }}/assets/img/work/proj-5/workcontours.png)
 *Contour plot of total number of iterations to reach target simulation time.
 Red line (0.45e6 iterations) represents parity with the explicit code. Black
 points succeeded, red points failed to converge.*
@@ -55,7 +55,7 @@ https://docs.scipy.org/doc/scipy-0.14.0/reference/optimize.html) from [FiPy](
 https://github.com/usnistgov/fipy).
 
 {: .imgcenter}
-![KKSenergy]({{ site.github.url }}/assets/img/work/proj-5/KKSenergy.png)
+![KKSenergy]({{ site.url }}/assets/img/work/proj-5/KKSenergy.png)
 *Free energy landscape for binary solidification model showing trajectories
 through the interface as a planar growth front equilibrates.*
 

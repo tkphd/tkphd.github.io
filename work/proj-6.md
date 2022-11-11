@@ -8,16 +8,16 @@ break down some parts of the wheat kernel humans have difficulty digesting,
 and produce a bread with appealing texture and complex flavors.
 
 {: .imgcenter}
-![Culture]({{ site.github.url }}/assets/img/work/proj-6/culture.png)
+![Culture]({{ site.url }}/assets/img/work/proj-6/culture.png)
 *Whole wheat sourdough culture*
 
 {: .imgcenter}
-![Samurai]({{ site.github.url }}/assets/img/work/proj-6/samurai.png)
-![Vitruvian]({{ site.github.url }}/assets/img/work/proj-6/vitruvian.png)
+![Samurai]({{ site.url }}/assets/img/work/proj-6/samurai.png)
+![Vitruvian]({{ site.url }}/assets/img/work/proj-6/vitruvian.png)
 *Whole wheat sourdough bread*
 
 {: .imgcenter}
-![Multigrain]({{ site.github.url }}/assets/img/work/proj-6/multigrain.png)
+![Multigrain]({{ site.url }}/assets/img/work/proj-6/multigrain.png)
 *Multigrain sourdough bread*
 
 The endless variety in the ingredients, proportions, and baking conditions will
