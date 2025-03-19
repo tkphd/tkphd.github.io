@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Trevor Keller
-description: Theorist // Engineer // Wordsmith
+description: Scientist & Sysadmin
 email: trevor@trevorkeller.com
 
 menu:
@@ -16,11 +16,11 @@ menu:
 # About Section
 
 blurb: >
-  **Trevor specializes in kinetic models** for microstructural
-  evolution in metal alloys. They are a member of the research
-  staff at NIST, studying precipitate aging in additively
-  manufactured superalloys using phase-field methods and
-  computational thermodynamics.
+  Scientist and Sysadmin thriving at the intersection of mathematical
+  models, high-performance computing, and data storage.
+  Specializing in Linux clusters and solid-state microstructure
+  evolution in metals.
+  Passionate about building a better tomorrow.
 
 resume:
   - format: 'PDF'
@@ -67,7 +67,7 @@ social:
   - icon: 'linkedin'
     link: 'https://www.linkedin.com/in/trevor-keller-a8610ba/'
   - icon: 'twitter'
-    link: 'https://twitter.com/tkphd'
+    link: 'https://bsky.app/profile/tkphd.bsky.social'
 
 # SEO Section
 
